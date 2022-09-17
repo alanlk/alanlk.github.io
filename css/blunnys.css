@@ -1,0 +1,134 @@
+
+
+
+#menu{
+padding: 2%;
+background-color:  white;
+}
+
+#Productos{
+
+  background-color:  white;
+  padding:  3% ;
+
+
+
+}
+
+#carousel{
+  height: : 50%;
+}
+
+.foto-carousel{
+  height: 800px;
+  width: 1100px;
+
+}
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+.navbar-toggler{
+  margin-right: 5%;
+}
+
+section{
+  padding: 2% 3%;
+}
+
+.fa-cart-shopping:hover{
+
+ cursor: pointer;
+
+}
+
+h3{
+color: black;
+}
+
+#instagram{
+  width: 200px;
+}
+
+.dudas{
+  background-color: #f6eeec;
+}
+.pdudas{
+  margin-top: 10px;
+}
+
+/* Bloque  Navegador */
+
+.navbar{
+  background-color: white;
+}
+
+.navbar-brand{
+  height: 100px;
+  margin-left: 10%;
+}
+
+.navbar-nav{
+  margin-left: 25%;
+}
+
+.nav-item{
+  padding-left: 50px;
+}
+
+.nav-link{
+  margin-left: 5%;
+
+}
+
+/* Bloque  Fotos */
+
+.bunny_foto{
+
+  height: 400px;
+  width: 450px;
+
+}
+
+.img-thumbnail{
+  padding: 0%;
+}
+
+.padding{
+  padding-top: 3%;
+}
+
+/* Bloque  separador */
+.separador{
+  height: 80px;
+  width: 110px;
+
+}
+
+/* Bloque  Footer */
+
+#footer{
+  height:  670px;
+  background-color: black;
+  text-align: center;
+  padding-top: 3%;
+}
+
+.footer_image{
+  height:  140px;
+  padding: -100px;
+}
+
+.footer-icon{
+  color: white;
+}
+.tituloayuda{
+  margin-bottom: 4%;
+}
+
+
+#precios{
+  padding:2% 3%;
+}
